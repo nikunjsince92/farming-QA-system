@@ -10,8 +10,8 @@ Type of Queries ($query parameter)- This system is basically designed to an-
 swer the agriculture related queries. It can answer the plantation queries for almost all
 the plants and can also answer many other queries related to pests, pesticides, farm etc.
 Some examples are-
- ways to Make a Natural Insectcide
- How can we Make a Crop Circle
+> ways to Make a Natural Insectcide
+> How can we Make a Crop Circle
  Want to plant ladynger.
  how to graft plants.
  plant pine trees.
