@@ -1,0 +1,112 @@
+		body 
+		{ 
+		  background: url(images/bg1.jpg) no-repeat center center fixed; 
+		  -webkit-background-size: cover;
+		  -moz-background-size: cover;
+		  -o-background-size: cover;
+		  background-size: cover;
+		}
+		body, p, span, div, label, a {font-family: 'Muli', sans-serif;}
+		.bgOverlay
+		{
+			position:fixed;
+			top:0; left:0; 
+			width:100%; height:100%;
+			z-index:-1;
+			background:rgba(0,0,0,0.4);
+		}
+		.title
+		{
+			font-family: 'Bree Serif', serif;
+			font-size: 500%;
+			color: rgb(255,255,255);
+		}
+		.childContainer
+		{
+			
+		}
+		.parentContainer
+		{
+			position:absolute;
+			top:0; left:0; width:100%; height:100%;
+			display:flex;
+			align-items:center;
+			justify-content:center;
+		}
+		.transparent-input
+		{
+			background-color:rgba(0,0,0,.5) !important;
+			border-color:rgb(128,128,128);
+			color:rgb(255,255,255) !Important;
+		}
+		.btnWidth
+		{
+			width:100%;
+		}
+		.top20
+		{
+		padding-top:20px;
+		height: 100px;
+		}
+		.childContainer
+		{
+			position:absolute;
+			top:5%;
+			left:3%;
+			width:94%;
+			height:90%;
+			overflow:auto;
+		    background-color: rgba(255, 255, 255, 0.67);
+			border-radius: 6px;
+			border: 4px solid rgba(255,255,255,.7);
+			padding:20px;
+			margin: 20px;
+			display: inline-block;
+			overflow-x:hidden;
+		}
+		.close
+		{
+			width:30px;
+			height:30px;
+		}
+		.showQuery, .showLcount
+		{
+	    font-weight: bold;
+		font-size: 30px;
+		text-transform: capitalize;
+		}
+		.video
+		{
+		text-align:center;
+		}
+		.none {display:none;}
+		.borderRed 
+		{
+		border:solid 1px #ff0000 !important;
+		box-shadow: 0px 0px 7px #ff0000 !important;
+		}
+		.footer {
+		position: absolute;
+		bottom: 0;
+		width:100%;
+		}
+		.black
+		{
+		color: #222;
+		}
+		.footerIn 
+		{	margin-left:-2.5px;
+			background-color:#fff;
+			border-top:3px solid #888 ;
+			height:45px;
+			line-height:45px;
+			font-size:18px;
+			text-align:center;
+			border-left:1px solid #bbb;
+		}
+		.footerIn:hover{border-top:3px solid #00D000;}
+		button:focus
+		{
+		outline:0 !important;
+		border:0 !important
+		}
