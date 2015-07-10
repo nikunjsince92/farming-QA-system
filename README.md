@@ -14,4 +14,4 @@ ways to Make a Natural Insectcide, How can we Make a Crop Circle, Want to plant 
 NOTE: Spelling mistakes and grammatical errors will be handled automatically.
 
 API for this application has also been developed. It results the output in JSON.
-Source Code- https://github.com/nikunjsince92/farming-QA-system--API-
+Source Code (API)- https://github.com/nikunjsince92/farming-QA-system--API-
